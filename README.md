@@ -24,6 +24,7 @@ Dynamic Filtering: State-wise analysis
 🖼 Dashboard Preview
 
 Below is a preview of the Ecommerce Sales Dashboard:
+
 ![Image alt](Dashboard.jpg)
 ***
 📊 Visualizations Included
