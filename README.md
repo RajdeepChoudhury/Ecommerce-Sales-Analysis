@@ -25,7 +25,7 @@ Dashboard Preview
 
 Below is a preview of the Ecommerce Sales Dashboard:
 
-![Image alt](Economic_sales_dashboard.jpg)
+![Image alt](Dashboard.jpg)
 ***
 Visualizations Included
 
